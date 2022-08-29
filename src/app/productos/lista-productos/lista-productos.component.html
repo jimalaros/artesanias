@@ -1,0 +1,29 @@
+<div class="card text-center">
+    <div class="card-header">
+        <h1>{{titulolistaProductos}}</h1>
+    </div>
+    <div class="card-body mx-auto">
+        <div class="table table-bordered table-striped ">
+            <thead>
+                <tr>
+                    <th>
+                        <button class="btn" style="background-color: rgb(255, 87, 51);" (click)="toggleImage()">
+                            {{ muestraImagen ? "Oculta" : "Muestra" }} Imagenes
+                        </button>
+                    </th>
+                    <th>Producto</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let producto of productos">
+                    <td>
+                        <p>
+                            <img [src]="producto.imagenUrl" *ngIf="muestraImagen" [style.width.px]="anchoImagen" [style.margin.px]="margenImagen">
+                        </p>
+                    </td>
+                    <td>{{ producto.producto }}</td>
+                </tr>
+            </tbody>
+        </div>
+    </div>
+</div>

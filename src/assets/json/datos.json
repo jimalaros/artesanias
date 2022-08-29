@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1,
+        "producto": "Batea",
+        "precio": 20000,
+        "imagenUrl": "assets/imagenes/batea.jpg"
+    },
+    {
+        "id": 2,
+        "producto": "Batea Mediana",
+        "precio": 30000,
+        "imagenUrl": "assets/imagenes/bateaMediana.jpg"
+    },
+    {
+        "id": 3,
+        "producto": "Tabla para churrasco",
+        "precio": 10000,
+        "imagenUrl": "assets/imagenes/churrasco.jpg"
+    },
+    {
+        "id": 4,
+        "producto": "Colador de cafe",
+        "precio": 1000,
+        "imagenUrl": "assets/imagenes/colador.jpg"
+    },
+    {
+        "id": 5,
+        "producto": "Copa Sueca",
+        "precio": 5000,
+        "imagenUrl": "assets/imagenes/copaSueca.jpg"
+    },
+    {
+        "id": 6,
+        "producto": "Cuchara Coctelera",
+        "precio": 800,
+        "imagenUrl": "assets/imagenes/cucharaCoctelera.jpg"
+    },
+    {
+        "id": 7,
+        "producto": "Cuchara Grande",
+        "precio": 1500,
+        "imagenUrl": "assets/imagenes/cucharaGrande.jpg"
+    },
+    {
+        "id": 8,
+        "producto": "Cuchara Mediana",
+        "precio": 1200,
+        "imagenUrl": "assets/imagenes/cucharaMediana.jpg"
+    },
+    {
+        "id": 9,
+        "producto": "Cuchara Pequeña",
+        "precio": 20000,
+        "imagenUrl": "assets/imagenes/cucharaPequeña.jpg"
+    },
+    {
+        "id": 10,
+        "producto": "Espatula Grande",
+        "precio": 2000,
+        "imagenUrl": "assets/imagenes/espatulaGrande.jpg"
+    },
+    {
+        "id": 11,
+        "producto": "Espatula Mediana",
+        "precio": 1000,
+        "imagenUrl": "assets/imagenes/espatulaMediana.jpg"
+    },
+    {
+        "id": 12,
+        "producto": "Molde de arepa Con Rodillo",
+        "precio": 4500,
+        "imagenUrl": "assets/imagenes/moldeDeArepaConRodillo.jpg"
+    },
+    {
+        "id": 13,
+        "producto": "Molde de arepa Con Tapa",
+        "precio": 4000,
+        "imagenUrl": "assets/imagenes/moldeDeArepaConTapa.jpg"
+    },
+    {
+        "id": 14,
+        "producto": "Mortero",
+        "precio": 4000,
+        "imagenUrl": "assets/imagenes/mortero.jpg"
+    },
+    {
+        "id": 15,
+        "producto": "Partidor de Panela",
+        "precio": 8000,
+        "imagenUrl": "assets/imagenes/partidorPanela.jpg"
+    },
+    {
+        "id": 16,
+        "producto": "Pataconera Grande",
+        "precio": 4000,
+        "imagenUrl": "assets/imagenes/pataconeraGrande.jpg"
+    },
+    {
+        "id": 17,
+        "producto": "Pataconera Pequeña",
+        "precio": 3000,
+        "imagenUrl": "assets/imagenes/pataconeraPequeña.jpg"
+    },
+    {
+        "id": 18,
+        "producto": "Picadora Grande",
+        "precio": 5000,
+        "imagenUrl": "assets/imagenes/picadoraGrande.jpg"
+    },
+    {
+        "id": 19,
+        "producto": "Picadora Pequeña",
+        "precio": 3000,
+        "imagenUrl": "assets/imagenes/picadoraPequeña.jpg"
+    },
+    {
+        "id": 20,
+        "producto": "Rodillo Masajeador",
+        "precio": 10000,
+        "imagenUrl": "assets/imagenes/rodilloMasajeador.jpg"
+    },
+    {
+        "id": 21,
+        "producto": "Rodillo Mediano",
+        "precio": 3500,
+        "imagenUrl": "assets/imagenes/rodilloMediano.jpg"
+    },
+    {
+        "id": 22,
+        "producto": "Rodillo Pequeño",
+        "precio": 2000,
+        "imagenUrl": "assets/imagenes/rodilloPequeño.jpg"
+    },
+    {
+        "id": 23,
+        "producto": "Servilletero Manzana",
+        "precio": 12000,
+        "imagenUrl": "assets/imagenes/servilleteroManzana.jpg"
+    },
+    {
+        "id": 24,
+        "producto": "Tabla con Plancha",
+        "precio": 15000,
+        "imagenUrl": "assets/imagenes/tablaPlancha.jpg"
+    },
+    {
+        "id": 25,
+        "producto": "Tabla para picar redonda",
+        "precio": 6000,
+        "imagenUrl": "assets/imagenes/tablaRedonda.jpg"
+    },
+    {
+        "id": 26,
+        "producto": "Tostonera",
+        "precio": 4500,
+        "imagenUrl": "assets/imagenes/tostonera.jpg"
+    }
+]
